@@ -1,6 +1,6 @@
 import openai
 import os
-# update
+
 
 class Chatbot:
     def __init__(self):
